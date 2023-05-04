@@ -1,0 +1,43 @@
+[
+
+  {
+    "image": "assets/images/html5.png",
+    "cours": "HTML",
+    "detail": "Mise en page"
+  },
+  {
+    "image": "assets/images/css3.png",
+    "cours": "CSS",
+    "detail": "Pour la modification de la page"
+  },
+  {
+    "image": "assets/images/js.png",
+    "cours": "Javascript",
+    "detail": "Pour le comportement de la page"
+  },
+  {
+    "image": "assets/images/php.png",
+    "cours": "PHP"
+  },
+  {
+    "image": "assets/images/sql.jpg",
+    "cours": "SQL",
+    "detail": "Pour la base de données"
+  },
+  {
+    "image": "assets/images/py.jpg",
+    "cours": "PYTHON"
+  },
+  {
+    "image": "assets/images/java.png",
+    "cours": "Java",
+    "detail": "Langage Oriente Objet"
+
+  },
+  {
+    "image": "assets/images/c.png",
+    "cours": "Langage C",
+    "detail": ""
+  }
+
+]

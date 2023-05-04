@@ -1,0 +1,7 @@
+{
+  "name": "codhub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
